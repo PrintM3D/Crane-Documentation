@@ -147,6 +147,14 @@ Occasionally things can be damaged during shipping, and or come loose. If you no
 
 ![Endstop damage during shipping ](../.gitbook/assets/20181227_184025.jpg)
 
+## Printsheets, Glass Bed and/or Adhesive Print Surface:
+
+Depending on when you received you Crane, and which add-ons you included, your printer may come with one of three options. Here they are and when they should be used:
+
+* Black adhesive sheet - This is best used as a texture enhancer, since when properly calibrated, the bottom of prints will not look 3D printed, but matte finish. It is a bit more forgiving of height variations and thus better for first time prints, and prints with very small features on the first layer, like thin legs. This material tends to rip with repeated use, especially with higher temperature materials and is thus a consumable. It's best practice to put this on a replacable material like the fiberglass sheet, otherwise adhesive removal may leave residue on the heated bed.
+* Unbound / Fiberglass sheet with clips - This is the recommended surface, as it does not need any glue applied on the surface to work, and the nozzle can not easily melt and damage it. We recommend this for repeated printing, and especially for printing higher temperature materials like PETG (M3D's ABS-R). To bind PETG prints, heat to 80-85C, and to remove them cool below 60C. Prints should pop off easily when cold, so it isn't the best option for power-fail recovery. 
+* Thick Glass Bed with clips - This is a more traditional print surface. It's best use case is when making extremely shiny and flat prints. However, it has adhesion issues and is not good for small features or large dense prints. Glue or adhesive spray needs to be applied to get a good bond, and this aspect of using a glass bed is artistic in that everyone has a different approach. We recommend starting with elmers glue stick, and applying two very thin layers when hot. 
+
 ## Before powering on your M3D Crane Series Printer:
 
 You should have received along with your printer, a micro SD card as well as a blue micro SD card adapter. Check the SD card slot on the right side of your Crane Series printer to see if yours was shipped with the SD card already in place. If your SD card is already in place, remove it and replace it before powering it on. The SD card may have been shifted or impacted during shipping and turning on the power with the SD card askew inside could lead to damage.
