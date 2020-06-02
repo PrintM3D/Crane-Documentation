@@ -2,6 +2,7 @@
 
 * [Welcome](README.md)
 * [Warnings](warnings.md)
+* [Facebook Group](facebook.md)
 * [Coda For Troubleshooting](coda-troubleshooting.md)
 
 ## Crane Bowden Guide
