@@ -1,5 +1,7 @@
-#  M3D QuadFusion and Dual Owners Group
+#  M3D QuadFusion and Dual Owners Group 
 
+M3D QuadFusion and Dual Owners Group
+ 
 an Unofficial Community Run Group, 
 Officially supported by M3D.
 
