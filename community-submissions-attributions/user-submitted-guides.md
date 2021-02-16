@@ -2,7 +2,7 @@
 
 ## User Created Video Guides:
 
-The following Video Guides were created by the user [**Tylerun**](https://www.youtube.com/channel/UCGeec2CuOivtNfsut2HUH1Q/featured) 
+The following Video Guides were created by the user [**Tylerun**](https://www.youtube.com/channel/UCGeec2CuOivtNfsut2HUH1Q/featured)
 
 ## Firmware Updates:
 
@@ -20,5 +20,14 @@ The following Video Guides were created by the user [**Tylerun**](https://www.yo
 
 {% embed url="https://www.youtube.com/watch?v=0dmPRjeNWpk&t=25s" %}
 
-We look forward to adding more Video Guides as well as other user submitted content! If you've created some user content and would like to submit it please refer to the section [**About Community Submissions** ](https://crane.printm3d.com/community-submissions-attributions/community-submissions)in order to have your content reviewed for publication. 
+## User Created Video Guides:
 
+The following Video Guides were created by the user **Sindarius**
+
+## Setting up Simplify 3D Multi Color Printing
+
+{% embed url="https://www.youtube.com/watch?v=FdsOo-OlTCY" %}
+
+Settings are available [here](https://crane.printm3d.com/community-submissions-attributions/user-submitted-guides/Crane_S3DSettings.zip)
+
+We look forward to adding more Video Guides as well as other user submitted content! If you've created some user content and would like to submit it please refer to the section [**About Community Submissions** ](https://crane.printm3d.com/community-submissions-attributions/community-submissions)in order to have your content reviewed for publication.
